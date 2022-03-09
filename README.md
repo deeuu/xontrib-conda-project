@@ -1,6 +1,6 @@
 # Xontrib Conda Project
 
-This `xontrib` will automatically activate a [`conda`](https://docs.conda.io/projects/conda/en/latest/user-guide/) environment residing in a project directory, upon moving to that directory.
+A [xonsh](https://xon.sh/) `xontrib` to automatically activate a [`conda`](https://docs.conda.io/projects/conda/en/latest/user-guide/) environment residing in a project directory, upon moving to that directory.
 
 For example, lets create a `conda` environment for our new project located at `~/project`
 
@@ -48,3 +48,8 @@ xontrib load xontrib-conda-project
 ```
 
 to your `.xonshrc`.
+
+## Links
+
+- See the [xonsh](https://xon.sh/) website for more information about this shell, or visit the [github repo](https://github.com/xonsh/xonsh).
+- You can find more xontribs and related documentation on the [project website](https://xon.sh/xontribs.html#).
